@@ -28,13 +28,13 @@
 }
 
 /* Add margin to page */
-p {
+/*p {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-}
+}*/
 
 body {  
-	padding: 1em; 
+	border: 1em; 
 } 
