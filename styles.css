@@ -27,6 +27,35 @@
     color: white;
 }
 
+/* Add a black background color to the top navigation */
+.secondnav {
+    overflow: hidden;
+    display: block;
+    color: #f2f2f2;
+    padding: 4px 5px;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: #df013a;
+}
+
+/* Style the links inside the navigation bar */
+.secondnav a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+/* Change the color of links on hover */
+.secondnav a:hover {
+    background-color: green;
+    color: black;
+}
+
+
 /* Add margin to page */
 /*p {
     margin-top: 100px;
@@ -38,4 +67,5 @@
 .mainbody {  
 	padding: 1em; 
 }
+
  
