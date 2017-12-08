@@ -55,6 +55,19 @@
     color: black;
 }
 
+#myTopnav {
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+#secondnav {
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 40pt; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
 
 /* Add margin to page */
 /*p {
@@ -68,11 +81,4 @@
 	padding: 1em; 
 }
 
-#bannerimage {
-  width: 100%;
-  background-image: "img/sag.jpg";
-  height: 405px;
-  background-position: center;
-}
- 
  
