@@ -76,11 +76,11 @@
 .fixed-bg {
     background-image: url("img/sag2.jpeg");
     height: 180px;
-    width:100%;
+    width:1200px;
     top:0;
     background-attachment: fixed;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     background-size: cover;
 }
  
