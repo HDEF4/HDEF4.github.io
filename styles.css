@@ -79,8 +79,8 @@
     width:100%;
     top:0;
     background-attachment: fixed;
-    background-position: top;
-    background-repeat: repeat-y;
+    background-position: top left;
+    background-repeat: repeat;
     background-size: contain;
 }
 
